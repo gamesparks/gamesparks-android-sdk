@@ -1,0 +1,2 @@
+include ':gamesparks-android-client-sdk'
+//include ':gamesparks-android-client-testharness'
